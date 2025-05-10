@@ -9,7 +9,7 @@
 ## 🛠️ Skills
 - Programming Languages: Python, PHP, Java,Javascript, C++,Html,CSS.
 - Tools & Frameworks: Angular, Vue.js, Symfony, Docker, MetaBase.
-- Others: [Other relevant skills].
+- Database: PostgreSQL, Oracle, MySQL,MongoDB.
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/almount46-)
