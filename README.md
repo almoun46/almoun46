@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Almountassir Abdel-aziz!
 
-<!--
-**almoun46/almoun46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning [AWS Certified Data Engineer].
+- 💼 I’m working on [project to generate report using LLM].
+- 🎯 Goals: [Learn as much as possibl].
+- ⚡ Fun fact: [Something fun about you].
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming Languages: [Python, PHP, Java,Javascript, C++,Html,CSS].
+- Tools & Frameworks: [Angular, Vue.js, Symfony, Docker, MetaBase].
+- Others: [Other relevant skills].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/almountassir-abdel-aziz-recherche-alternance-septembre-2023-)
+
+
+## 🏆 Achievements
+- [Achievement 1]
+- [Achievement 2]
